@@ -1,0 +1,223 @@
+.parent{
+    overflow-x: hidden;
+}
+.first{
+    margin-left:200px ;
+}
+.one{
+    border: 1px solid white;
+ 
+    
+    
+}
+
+.my:hover{
+    border-color: red;
+    background-color: white;
+    color: red;
+}
+.image1{
+    
+  min-width: calc(1050px);
+  min-height: calc(600px);
+  max-width:50% ;
+  max-height: 50%; 
+  background-attachment: scroll;
+   background-repeat: repeat-x;
+   background-size:cover;
+   background-blend-mode: dark;
+    background-image:  url('https://demo.epic-webdesign.com/tf-launchpage/v3/images/bg2.jpg');
+ background-position: left;
+  display: flex;
+  justify-content: start;
+margin-left: -60px;
+overflow-x: inherit;
+margin-top: 50px;
+
+margin-right: 50px;
+
+}
+.note{
+    padding-left:80px ;
+    text-align: center;
+    padding-top:200px ;
+    position: relative;
+   left: 150px;
+
+}
+#image{
+    width: 1000px;
+    height: 600px;
+    background-color:rgba(0,0,0,0.7) ;
+padding-right:230px ;
+}
+.class{
+    border: white;
+margin-right: calc(250px);
+margin-top: 40px;    
+position: relative;
+left: 100px;
+}
+.mybutton{
+position: relative;
+right: 100px;
+}
+.mybutton:hover{
+    border-color: red;
+    background-color: white;
+    color: red;
+}
+.link1{
+    
+    position: relative;
+    
+    top: -50px;
+
+}
+.link2{
+   
+    position: relative;
+    left:70px ;
+    top: -50px;
+}
+.link3{
+    
+    position: relative;
+    left:120px ;
+    top: -50px;
+}
+.link4{
+
+    position: relative;
+    left:150px ;
+    top: -50px;
+}
+.all link{
+    margin-top: 50px;
+}
+.link1:hover{
+color: gray;
+background-color: gray;
+}
+.link2:hover{
+  color: gray;  
+  background-color: gray;
+}
+.link3:hover{
+  color: gray;  
+  background-color: gray;
+}
+.link4:hover{
+   color: gray; 
+   background-color: gray;
+}
+.myclass{
+    width: 1000px;
+    height: 400px;
+    background-color: rgb(214, 234, 240);
+    margin-top: -180px;
+}
+#blue{
+    background-color: rgb(0, 82, 175);
+    position: relative;
+    top: -2px;
+}
+.para{
+    margin-left: 80px;
+    font-size: 50px;
+    padding: 2px;
+}
+.tick{
+    margin-top: 10px;
+    margin-right:270px ;
+}
+.tick2{
+    margin-top: 20px;
+    margin-right:270px ;
+}
+.tick3{
+    margin-top: 20px;
+    margin-right:270px ;
+}
+.point{
+    margin-left: 100px;
+    margin-top:-26px ;
+}
+.point2{
+    margin-left: 120px;
+    margin-top:-26px ;
+}
+.point3{
+    margin-left: 90px;
+    margin-top:-26px ;
+}
+.main3{
+    background-color: rgb(244,244,245);
+    width: 1000px;
+    
+}
+.para2{
+    position: relative;
+    top: 40px;
+    right: 90px;
+font-size: .9em;
+
+}
+
+.flow{
+    position: relative;
+    left: 70px;
+}
+img{
+    position:relative;
+  left: 10px;
+  top: 30px;
+}
+.img1{
+    position: relative;
+    top:1060px;
+   height: 42%;
+}
+.main2{
+width: 1000px;
+height: 200px;
+background-color: rgb(255, 251, 251);
+}
+.myclass{
+    width: 1000px;
+    height: 400px;
+    position: absolute;
+    margin-top: 10px;
+   
+}
+.three{
+    width:1050px ;
+    height: 400px;
+    position: relative;
+    margin-top: 10px;
+    overflow: hidden;
+    
+}
+.img4{
+position: relative;
+bottom: -100px ;
+}
+.tik{
+position: relative;
+left: -20px;
+}
+.p1{
+    position: relative;
+    left: 10px;
+    bottom: 50px;
+}
+.p2{
+position: relative;
+left:10px ;
+bottom:60px ;
+}
+.p3{
+    position: relative;
+    left:10px ;
+    bottom:70px ;
+    }
